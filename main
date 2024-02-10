@@ -1,8 +1,24 @@
 <html>
 <head>
-
+<title>Roc</title>
 </head>
+
 <body>
+<div id="header">
+header
+</div>
+
+<div id="main">
+Main frame
+</div>
+
+<div id="leftbar">
+Left sidebar
+</div>
+
+<div id="footer">
+Footer
+</div>
 
 </body>
 </html>
